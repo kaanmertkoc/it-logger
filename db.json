@@ -1,25 +1,11 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drice on workstation 005",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
-    },
-    {
       "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Workstation 009 not posting",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "John Doe",
+      "date": "2021-03-30T22:54:49.623Z"
     },
     {
       "message": "s",
@@ -31,24 +17,24 @@
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
-    },
-    {
       "firstName": "kaan",
       "lastName": "koç",
       "id": 4
+    },
+    {
+      "firstName": "Arin",
+      "lastName": "Ozkan",
+      "id": 5
+    },
+    {
+      "firstName": "Arif",
+      "lastName": "Dikkanat",
+      "id": 6
+    },
+    {
+      "firstName": "Cengo",
+      "lastName": "Köse",
+      "id": 7
     }
   ]
 }
